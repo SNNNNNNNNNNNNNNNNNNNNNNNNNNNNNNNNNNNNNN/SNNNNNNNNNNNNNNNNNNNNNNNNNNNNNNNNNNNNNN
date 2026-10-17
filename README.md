@@ -12,8 +12,6 @@
 
 计算机科学毕业生，现于华威大学攻读游戏工程硕士。关注玩法编程、Unreal Engine 开发、实时图形与 AI 驱动的游戏系统。独立完成过完整的 UE5 战斗原型与 C++ 渲染器项目，写代码时在意可玩性、玩家反馈和可读性。
 
-**求职方向：游戏玩法程序 · 引擎与图形程序**
-
 ## 精选项目
 
 ### [Kung Fu Souls](https://github.com/SNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN/KungFuSouls3) · 第三人称类魂战斗 Demo
