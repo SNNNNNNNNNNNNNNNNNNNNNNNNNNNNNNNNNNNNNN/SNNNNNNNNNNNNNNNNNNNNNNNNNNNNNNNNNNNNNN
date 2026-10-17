@@ -24,11 +24,11 @@
 
 ---
 
-### 模块化炮塔与火炮系统
+### [Skyfire Uprising · Level 4](https://github.com/pobertt/Skyfire_Uprising_Level4) · 空中战斗关卡（团队项目）
 
-`Unreal Engine 5` `Animation Blueprint` `Niagara` · 2025
+`Unreal Engine 5` `Blueprint` `Animation Blueprint` `Niagara` · 2026
 
-防空炮与火炮两套互相独立又可联动的系统：防空炮负责目标检测与瞄准，火炮以事件驱动方式发射。包含射程检测、目标追踪、骨骼网格旋转、蒙太奇播放、生命值逻辑与 Niagara 光束特效。
+五人团队完成的空中战斗关卡：玩家驾驶战机穿越海面、城市与峡谷，引导重炮击毁外星指挥舰。本人负责防空炮与火炮系统，包括目标检测与持续瞄准、火炮发射与弹道、射程与生命值判定，以及爆炸、启动与死亡动画特效。
 
 ### C++ 光线追踪 / 路径追踪渲染器
 
