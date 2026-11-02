@@ -64,10 +64,10 @@
 
 | 方向 | 技术 |
 | --- | --- |
-| 编程语言 | C++ · Python · Java · SQL |
-| 引擎与框架 | Unreal Engine 5 · Blueprint · UMG · Enhanced Input · Gameplay Framework |
-| 图形与渲染 | DirectX 11/12 · DXR · 光线追踪 · 路径追踪 · 光栅化 · 色调映射 |
-| 系统与开发 | 多线程 · 性能优化 · 调试 · 数据库 · UI 与音频集成 |
+| 语言 | C++ · Python · Java · SQL |
+| 引擎 | Unreal Engine 5 · Blueprint · UMG · Enhanced Input · Gameplay Framework |
+| 图形 | DirectX 11/12 · DXR · 光线追踪 · 路径追踪 · 光栅化 · 色调映射 |
+| 系统 | 多线程 · 性能优化 · 调试 · 数据库 · UI 与音频集成 |
 | 工具 | Git · GitHub · Visual Studio · Blender |
 
 ## 联系方式
